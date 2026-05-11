@@ -1,1 +1,1 @@
-# Waveform-Synthesizer
+synthesizer 😎
